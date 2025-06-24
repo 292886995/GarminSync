@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarminConnect", "GarminConnect\GarminConnect.csproj", "{C4A5F25F-A43F-490C-B879-AD5BF7801342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGarminSync", "UnitTestGarminSync\UnitTestGarminSync.csproj", "{BB072590-E389-473E-9A11-AA5BB890ECE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarminModels", "GarminModels\GarminModels.csproj", "{AE9A59F4-254B-4B53-91FD-B7643C67C251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth1", "OAuth1.0\OAuth1.csproj", "{FEC23A88-E818-4CE6-BD18-371102B92B6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4A5F25F-A43F-490C-B879-AD5BF7801342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A5F25F-A43F-490C-B879-AD5BF7801342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A5F25F-A43F-490C-B879-AD5BF7801342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A5F25F-A43F-490C-B879-AD5BF7801342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB072590-E389-473E-9A11-AA5BB890ECE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB072590-E389-473E-9A11-AA5BB890ECE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB072590-E389-473E-9A11-AA5BB890ECE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB072590-E389-473E-9A11-AA5BB890ECE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9A59F4-254B-4B53-91FD-B7643C67C251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9A59F4-254B-4B53-91FD-B7643C67C251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9A59F4-254B-4B53-91FD-B7643C67C251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9A59F4-254B-4B53-91FD-B7643C67C251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC23A88-E818-4CE6-BD18-371102B92B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC23A88-E818-4CE6-BD18-371102B92B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC23A88-E818-4CE6-BD18-371102B92B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC23A88-E818-4CE6-BD18-371102B92B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F2DC46-DEB6-4682-92B6-F6ABD2D77216}
+	EndGlobalSection
+EndGlobal
